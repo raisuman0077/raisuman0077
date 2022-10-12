@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**raisuman0077/raisuman0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello 👋</h1>
+<br clear="both">
 
-Here are some ideas to get you started:
+<p align="center">My name is Suman Rai and I'm a Front - End Developer.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">⭐About me</h2>
+
+###
+
+
+<p align="left">📘  I'm currently learning more about Software development, Testing and Debugging.<br>🔍 I'm looking into Exploring New Technologies for knowledge and growth.<br>📧 How to reach me: Email - raisuman0077@gmail.com<br>⚡ Fun fact:  📸Street Photography as hobby, 🎮Playing games and 📽️Watching anime, series, movies.</p>
+
+###
+<br clear="one">
+<h2 align="left">🌐Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/samangsong-suman/" ><img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /> </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+</div>
+
+###
+<br clear="one">
+<h2 align="left">💻Tech Stack and Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="65" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="65" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="65" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="65" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="65" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" width="65" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="65" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="65" alt="github logo"  />
+</div>
+
+###
+<br clear="one">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisuman0077&langs_count=8&theme=dark" height="400" />
+
+###
