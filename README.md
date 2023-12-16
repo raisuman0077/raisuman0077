@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋</h1>
 <br clear="both">
 
-<p align="center">My name is Suman Rai and I'm a Front - End Developer.</p>
+<p align="center">This is Suman Rai and I'm a Front - End Developer.</p>
 
 ###
 
