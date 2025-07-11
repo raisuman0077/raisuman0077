@@ -11,7 +11,7 @@
 ###
 
 
-<p align="left">📘  I'm currently learning more about Software development, Testing and Debugging.<br>🔍 I'm looking into Exploring New Technologies for knowledge and growth.<br>📧 How to reach me? Email - raisuman0077@gmail.com<br>⚡ Fun fact:  📸Street Photography as hobby, 🎮Playing games and 📽️Watching anime, series, movies.</p>
+<p align="left">📘  I'm currently learning more about Software development, Testing and Debugging.<br>🔍 I'm looking into Exploring New Technologies for knowledge and growth.<br>📧 How to reach me? Email - raisuman0077@gmail.com<br></p>
 
 ###
 <br clear="one">
