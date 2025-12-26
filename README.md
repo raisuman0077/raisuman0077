@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,redux,py,html,css,sass,git,github&perline=11"  alt="logo"  />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,ts,redux,py,html,css,sass,git,github&perline=15"  alt="logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="65" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="65" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="65" alt="redux logo"  />
