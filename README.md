@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋</h1>
 <br clear="both">
 
-<p align="center">This is Suman Rai and I'm a Front - End Developer.</p>
+<p align="center">This is Suman Rai.</p>
 
 ###
 
@@ -14,7 +14,6 @@
 <p align="left">📘  I'm currently learning more about Software development, Testing and Debugging.<br>🔍 I'm looking into Exploring New Technologies for knowledge and growth.<br>📧 How to reach me? Email - raisuman0077@gmail.com<br></p>
 
 ###
-<br clear="one">
 <h2 align="left">🌐Social Media</h2>
 
 ###
@@ -27,24 +26,24 @@
 </div>
 
 ###
-<br clear="one">
+
 <h2 align="left">💻Tech Stack and Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="65" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,redux,py,html,css,sass,git,github&perline=11"  alt="logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="65" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="65" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="65" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="65" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="65" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" width="65" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="65" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"  height="45" width="65" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"  height="45" width="65" alt="github logo"  /> -->
 </div>
 
 ###
 <br clear="one">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisuman0077&langs_count=8&theme=dark" height="400" />
+<img src="https://github-readme-stats-phi-ten-10.vercel.app/api/top-langs/?username=raisuman0077&langs_count=8&theme=dark" height="400" />
 
-###
