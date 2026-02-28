@@ -45,5 +45,4 @@
 
 ###
 <br clear="one">
-<img src="https://github-readme-stats-phi-ten-10.vercel.app/api/top-langs/?username=raisuman0077&langs_count=8&theme=dark" height="400" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisuman0077&layout=compact&theme=dark" />
