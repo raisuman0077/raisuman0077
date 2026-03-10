@@ -44,5 +44,4 @@
 </div>
 
 ###
-<br clear="one">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisuman0077&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raisuman0077&layout=compact&theme=dark&langs_count=8)
